@@ -29,7 +29,7 @@ def greet(who="Colin"):
 greet()
 greet(who="Olanle")
 # (In this case, we don't need to specify the name of the argument, because it's unambiguous.)
-greet("world")
+greet("Gab")
 print(greet())
 
 #Functions Applied to Functions¶
